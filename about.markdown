@@ -13,11 +13,12 @@ I am a Japanese<sup>1</sup> who has been living in ~~Japan 🇯🇵~~ Singapore 
 ## Social Network
 
 You can reach out to me via:
+- <i class="fa-brands fa-github"></i>[GitHub: takashiyoshida](https://github.com/takashiyoshida)
 - [LinkedIn: takashiyoshida](https://sg.linkedin.com/in/takashiyoshida)<sup>3</sup>
 - [Twitter: @takashiyoshida](https://twitter.com/takashiyoshida)
 - Facebook: ~~takashiyoshida~~<sup>4</sup>
 - [Flickr: tyoshida](https://www.flickr.com/photos/tyoshida/)
-- [GitHub: takashiyoshida](https://github.com/takashiyoshida)
+- [Youtube: TakashiYoshida](https://www.youtube.com/@TakashiYoshida)
 
 <br />
 
@@ -25,7 +26,7 @@ You can reach out to me via:
 
 <br />
 
-<sup>1</sup> Some people think I am a fake Japanese. I suppose this is because I have been away from Japan for too long. COVID-19 made it more difficult to visit Japan than before, but I intend to revisit Japan one day.
+<sup>1</sup> Some people think I am a fake Japanese. I guess this is because I have been away from Japan for too long and they have also never seen me speak Japanese. COVID-19 made it more difficult to visit Japan than before, but I intend to revisit Japan one day.
 
 <sup>2</sup> Actual number of years lived in Singapore is greater than 20.
 
