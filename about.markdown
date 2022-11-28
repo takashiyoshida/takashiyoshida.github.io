@@ -10,12 +10,14 @@ permalink: /about/
 
 I am a Japanese<sup>1</sup> who has been living in ~~Japan 🇯🇵~~ Singapore 🇸🇬 for over twenty years<sup>2</sup>. I came to Singapore with my family when I was twelve years old. I studied Computer Science in U.S. for four years before coming back to Singapore for work.
 
+
 ## Social Network
 
 You can reach out to me via:
-- <i class="fa-brands fa-github"></i>[GitHub: takashiyoshida](https://github.com/takashiyoshida)
+- [GitHub: takashiyoshida](https://github.com/takashiyoshida)
 - [LinkedIn: takashiyoshida](https://sg.linkedin.com/in/takashiyoshida)<sup>3</sup>
 - [Twitter: @takashiyoshida](https://twitter.com/takashiyoshida)
+- [Mastodon: @takashiyoshida@mstdn.social](https://mstdn.social/@takashiyoshida)
 - Facebook: ~~takashiyoshida~~<sup>4</sup>
 - [Flickr: tyoshida](https://www.flickr.com/photos/tyoshida/)
 - [Youtube: TakashiYoshida](https://www.youtube.com/@TakashiYoshida)
